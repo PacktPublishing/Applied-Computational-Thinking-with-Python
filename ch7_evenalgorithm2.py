@@ -10,6 +10,6 @@ evenNumbers = []
 for i in range(endpoint1, endpoint2):
     if i % 2 == 0:
         evenNumbers.append(i)
-        i = i + 1
+        
         
 print(evenNumbers)

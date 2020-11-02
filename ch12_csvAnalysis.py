@@ -4,6 +4,6 @@ import matplotlib.pyplot as plt
 import os
 
 #Let Python know correct directory for file.
-os.chdir('C:\\Users\\sofia.dejesus\\OneDrive - Hawken School\\03_book\\Program Files\\Chapter 12')
+os.chdir('ch12_data.csv')
 print('Current directory', os.getcwd())
 

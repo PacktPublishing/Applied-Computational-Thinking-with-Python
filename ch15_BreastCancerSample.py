@@ -5,7 +5,7 @@ import seaborn as sns
 %matplotlib inline
 
 #Get data set. Remember to check your directory and/or add the full location of the file.
-dataset = pd.read_csv('C:\\Users\\sofia.dejesus\\Documents\\Breast_cancer_data.csv')
+dataset = pd.read_csv('C:\\...\\Breast_cancer_data.csv')
 dataset.head()
 dataset.isnull().sum()
 

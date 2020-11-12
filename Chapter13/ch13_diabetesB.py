@@ -30,10 +30,4 @@ model.fit(x_variables, y_variable, epochs=95, batch_size=25)
 #Evaluate the model
 _, accuracy = model.evaluate(x_variables, y_variable)
 print('Accuracy: %.2f' % (accuracy*100))
-print(model.summary())
-
-y_pred = model.predict(X_test)
-y_pred = (y_pred > 0.5)
-from sklearn.metrics import confusion_matrix
-cm = confusion_matrix(y_test, y_pred)
-print(cm)
+model.summary()

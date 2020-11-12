@@ -9,4 +9,7 @@ for class_value in range(2):
 	row_ix = where(y == class_value)
 	pyplot.scatter(X[row_ix, 0], X[row_ix, 1])
 #Display plot
+pyplot.xlabel('variable 1')
+pyplot.ylabel('variable 2')
+pyplot.title('Synthetic data graph')
 pyplot.show()

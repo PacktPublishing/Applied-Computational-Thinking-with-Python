@@ -1,6 +1,6 @@
 #Get input for your variables for size and sauce first. 
 
-size_choice = str(input("Is this a personal or family pizza? Type 1 for personal and 2 for family. "))
+size_choice = str(input("Is this a personal or family pizza? Type personal or family. "))
 
 sauce_choice = str(input("Which sauce would you like? Marinara or garlic cream? Type m for marinara and g for garlic cream. "))
 if sauce_choice == "g":

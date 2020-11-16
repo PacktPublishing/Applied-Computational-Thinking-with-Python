@@ -10,4 +10,5 @@ elif number < 21:
     else:
         print("I like larger numbers myself too.")
 else:
+#Sometimes we make mistakes when providing input in programs. If you choose a number that's not between 0 and 20, the program will print this message.
     print("That number isn't between 0 and 20. Run the program and try again.")

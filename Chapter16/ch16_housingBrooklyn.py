@@ -9,7 +9,7 @@ df['price_range'] = pd.cut(df['sale_price'], bins = bins, labels = ranges_prices
 def convert(year):
     return df[df['year_of_sale'] == year].groupby('price_range').size()
 percent_total = [x/sum(x)*100 for x in [convert(2003),convert(2004),convert(2005),convert(2006),convert(2007),convert(2008),convert(2009),convert(2010),convert(2011),convert(2012),convert(2013),convert(2014),convert(2015),convert(2016),convert(2017)]]
-year_names = list(range(2003,2018)
+year_names = list(range(2003,2018))
 
 
 housing_df = pd.DataFrame(percent_total, index = year_names)

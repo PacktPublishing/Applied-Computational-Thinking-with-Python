@@ -1,8 +1,8 @@
 # Applied Computational Thinking with Python
 
-<a href="https://www.packtpub.com/in/programming/practical-computational-thinking-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781839219436-original_47.jpeg" alt="Applied Computational Thinking with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/programming/practical-computational-thinking-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781839219436-original_83.jpeg" alt="Applied Computational Thinking with Python" height="256px" align="right"></a>
 
-This is the code repository for [Useful Links](https://www.packtpub.com/in/programming/practical-computational-thinking-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781786461629), published by Packt.
+This is the code repository for [Applied Computational Thinking with Python](https://www.packtpub.com/programming/practical-computational-thinking-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781786461629), published by Packt.
 
 **Design algorithmic solutions for complex and challenging real-world problems**
 

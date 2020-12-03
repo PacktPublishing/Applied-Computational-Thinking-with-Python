@@ -35,7 +35,7 @@ def encrypt(message, key):
     if letts in LETTERS:
       num = LETTERS.find(letts)
       num += key
-     encryptedM += LETTERS[num]
+    encryptedM += LETTERS[num]
   return encryptedM
 ```
 
@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Computer Programming for Absolute Beginners [[Packt]](https://www.packtpub.com/product/computer-programming-for-absolute-beginners/9781839216862?utm_source=github&utm_medium=repository&utm_campaign=9781839216862) [[Amazon]](https://www.amazon.com/dp/1839216867)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Sofía De Jesús**
 is a computational thinking teacher with a degree from the University of Puerto Rico with a focus on math. She has a master’s degree from the University of Dayton. Her experience in education and development spans two decades. She has worked with clients to develop solutions in multiple programming languages. As a teacher, Sofía helps students incorporate the philosophy of computational thinking in courses like game design, circuits, Python, web design, and robotics. She likes to play video games and spend time with her 11 year old Yorkie, King Kong. Sofía also enjoys creating materials, small furniture, and jewelry using CNC machines and laser cutters. She enjoys spending as much time in Puerto Rico as work and life permits.
 

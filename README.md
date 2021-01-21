@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/practical-computational-thinking-with-python/9781839219436)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1839219432).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Applied Computational Thinking with Python
 
 <a href="https://www.packtpub.com/programming/practical-computational-thinking-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781839219436-original_83.jpeg" alt="Applied Computational Thinking with Python" height="256px" align="right"></a>

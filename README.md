@@ -61,3 +61,7 @@ is a computational thinking teacher with a degree from the University of Puerto 
 
 **Dayrene Martinez**
 is a Systems Engineer in the Defense Industry where she develops neural networks embedded in real-time software to aid in decision making for aerospace vehicles. She received a B.S. in Electrical Engineering from the New Jersey Institute of Technology (NJIT). Dayrene is passionate about STEM education and volunteers her free time to inspire the next generation of engineers. She is an active supporter and keynote speaker for the non-profit organization Latinas in STEM. She teaches middle and high school students circuitry, robotics design and software engineering.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839219436">https://packt.link/free-ebook/9781839219436 </a> </p>
